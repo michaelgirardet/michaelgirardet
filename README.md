@@ -1,12 +1,8 @@
 <!-- Hero -->
 <div align="center">
-  <img src="assets/dev-typing.gif" alt="Développeur en train de coder" width="700"/>
-  <h1>Bonjour, je suis Michaël</h1>
-  <h3>Développeur Web & Mobile</h3>
-  <p>
-    Étudiant en MSc à <b>Epitech</b>, passionné par la tech, le développement web et l'IA.<br/>
-    J’aime le code propre, l’UX et apprendre en construisant des projets utiles.
-  </p>
+ <p>
+  <img src="assets/banner.svg" alt="Michaël — Développeur Web & Mobile" width="100%" />
+</p>
 </div>
 
 ---
