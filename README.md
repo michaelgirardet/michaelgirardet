@@ -1,6 +1,19 @@
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Michaël — Développeur Web & Mobile" width="100%" />
+
+  <h1>Bonjour, je suis Michaël</h1>
+  <h3>Développeur Web & Mobile</h3>
+
+  <p>
+    Étudiant en MSc à <b>Epitech</b> — j’aime le code propre, l’UX
+    et apprendre en construisant des projets utiles.
+  </p>
+
+  <p>
+    <b>Disponible pour une alternance dès janvier 2026</b>
+    (ou projets freelance).
+  </p>
+
 </div>
 
 
