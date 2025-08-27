@@ -1,0 +1,54 @@
+<!-- assets/banner.svg -->
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <!-- Palette -->
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C8DB2"/>
+      <stop offset="1" stop-color="#9AA7C6"/>
+    </linearGradient>
+    <!-- Masque pour effet "typing" -->
+    <mask id="typing-mask">
+      <rect x="0" y="0" width="0" height="100%" fill="#fff">
+        <animate attributeName="width" values="0;1000;1000;0" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- Fond -->
+  <rect width="1200" height="360" fill="#0b1220"/>
+
+  <!-- Petits éléments "dev" en arrière-plan -->
+  <g opacity="0.18" fill="#7C8DB2">
+    <circle cx="110" cy="110" r="3">
+      <animate attributeName="cy" values="110;100;110" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="1000" y="80" width="14" height="14" rx="2">
+      <animate attributeName="y" values="80;70;80" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="250" cy="300" r="2">
+      <animate attributeName="cx" values="250;260;250" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Titre -->
+  <text x="80" y="140" fill="#E6E9F2" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="800">
+    Bonjour, je suis <tspan fill="url(#accent)">Michaël</tspan>
+  </text>
+
+  <!-- Sous-titre avec effet "typing" -->
+  <g mask="url(#typing-mask)">
+    <text x="80" y="210" fill="#E6E9F2" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800">
+      Développeur Web & Mobile
+    </text>
+  </g>
+
+  <!-- Curseur clignotant -->
+  <rect x="820" y="165" width="6" height="60" fill="#E6E9F2">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Ligne de description -->
+  <text x="80" y="270" fill="#A9B2C7" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22">
+    Étudiant en MSc à Epitech — code propre, UX et apprentissage continu.
+  </text>
+</svg>
