@@ -41,8 +41,8 @@ Ma priorité : coder proprement, penser à l’utilisateur et bien communiquer e
 <table>
   <tr>
     <td width="50%">
-      <h3>🎨 Silhouet</h3>
-      <p>Projet personnel en TypeScript, explorant [fonctionnalités principales].</p>
+      <h3>✂️ Silhouet</h3>
+      <p>Projet utilisant Typescript et @imgly/background-removal pour supprimer l'arrière plan des images</p>
       <a href="https://github.com/michaelgirardet/silhouet">Voir le projet →</a>
     </td>
   </tr>
@@ -53,7 +53,7 @@ Ma priorité : coder proprement, penser à l’utilisateur et bien communiquer e
       <a href="https://github.com/WildCodeSchool-2024-09/js-lyon-2024-09-P3-Street-Art-Hunter">Voir le projet →</a>
     </td>
     <td width="50%">
-      <h3>🌐 Portfolio</h3>
+      <h3>🌐 Mon Portfolio</h3>
       <p>Mon site perso où je présente mon parcours, mes projets et mes compétences.</p>
       <a href="https://michaelgirardet.dev">Voir le projet →</a>
     </td>
