@@ -21,7 +21,7 @@
 
 ## À propos
 Salut, moi c’est Michaël.  
-J’ai commencé par créer mes propres projets web, puis j’ai suivi un bootcamp intensif avant de rejoindre **Epitech** pour approfondir mes compétences.  
+J’ai commencé par créer mon propre projet web, puis j’ai suivi un bootcamp intensif avant de rejoindre **Epitech** pour approfondir mes compétences.  
 
 Aujourd’hui, je travaille surtout avec **React**, **Next.js** et **TypeScript**.  
 Ma priorité : coder proprement, penser à l’utilisateur et bien communiquer en équipe.  
