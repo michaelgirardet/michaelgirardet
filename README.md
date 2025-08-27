@@ -1,9 +1,8 @@
-<!-- Hero -->
+
 <div align="center">
- <p>
-  <img src="../assets/banner.svg" alt="Michaël — Développeur Web & Mobile" width="100%" />
-</p>
+  <img src="assets/banner.svg" alt="Michaël — Développeur Web & Mobile" width="100%" />
 </div>
+
 
 ---
 
