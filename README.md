@@ -1,7 +1,7 @@
 <!-- Hero -->
 <div align="center">
  <p>
-  <img src="assets/banner.svg" alt="Michaël — Développeur Web & Mobile" width="100%" />
+  <img src="./assets/banner.svg" alt="Michaël — Développeur Web & Mobile" width="100%" />
 </p>
 </div>
 
