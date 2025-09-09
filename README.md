@@ -26,7 +26,7 @@ J’ai commencé par créer mon propre projet web, puis j’ai suivi un bootcamp
 Aujourd’hui, je travaille surtout avec **React**, **Next.js** et **TypeScript**.  
 Ma priorité : coder proprement, penser à l’utilisateur et bien communiquer en équipe.  
 
-👉 Je recherche une **alternance dès janvier 2026**, mais je suis aussi ouvert à des projets freelance.
+👉 Je recherche une **alternance pour deux ans et demi dès janvier 2026**, mais je suis aussi ouvert à des projets freelance.
 
 ---
 
