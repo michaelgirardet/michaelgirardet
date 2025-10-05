@@ -1,16 +1,22 @@
-<div align="center">
+<div>
 
-  <h1>Hi, I'm Michaël 🇫🇷</h1>
+  <h1>Hi, I'm Michaël</h1>
   <h3>Web & Mobile Developer</h3>
 
   <p>
-    MSc student at <b>Epitech</b> — I enjoy writing clean code, focusing on user experience,  
-    and learning by building meaningful projects.
+    Developer based in France — passionate about building useful, elegant, and performant web applications.<br>
+    I focus on writing clean, maintainable code and creating seamless user experiences.
   </p>
 
   <p>
-    <b>Available for an apprenticeship starting January 2026</b>  
-    (or freelance projects).
+    I mainly work with <b>Next.js</b>, <b>TailwindCSS</b> and <b>PostgreSQL</b>,  
+    and I’m always exploring new technologies to keep improving.
+  </p>
+
+  <p>
+    Currently pursuing an MSc in <b>Information Systems Architecture</b> at <b>Epitech</b>.<br>
+    <b>Available for an apprenticeship starting January 2026</b> — or freelance projects.<br>
+    Let’s build something great together.
   </p>
 
 </div>
