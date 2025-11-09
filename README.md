@@ -1,6 +1,6 @@
 <div>
 
-  <h1>Hi, I'm Michaël</h1>
+  <h1>Hi, I'm Michaël 👨🏻‍💻</h1>
   <h3>Web & Mobile Developer</h3>
 
   <p>
@@ -36,7 +36,7 @@ My priorities: writing clean, maintainable code, focusing on users, and communic
 
 ## Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,tailwind,nodejs,express,mysql,figma,notion,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,java,tailwind,nodejs,express,mysql,figma,notion,git,github" alt="Tech stack" />
 </p>
 
 ---
