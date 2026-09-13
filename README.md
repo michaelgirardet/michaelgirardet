@@ -1,78 +1,57 @@
-<div>
 
-  <h1>Hi, I'm Michaël 👨🏻‍💻</h1>
-  <h3>Web & Mobile Developer</h3>
+Ingénieur logiciel basé en France.  
+10 ans d’industrie, du SaaS en production, un MSc IA en cours.  
+*Software engineer based in France. A decade in industry, shipped SaaS, currently pursuing an MSc in AI.*
 
-  <p>
-    Developer based in France — passionate about building useful, elegant, and performant web applications.<br>
-    I focus on writing clean, maintainable code and creating seamless user experiences.
-  </p>
-
-  <p>
-    I mainly work with <b>Next.js</b>, <b>TailwindCSS</b> and <b>PostgreSQL</b>,  
-    and I’m always exploring new technologies to keep improving.
-  </p>
-
-  <p>
-    Currently pursuing an MSc in <b>Information Systems Architecture</b> at <b>Epitech</b>.<br>
-    <b>Available for an apprenticeship starting January 2026</b> — or freelance projects.<br>
-    Let’s build something great together.
-  </p>
-
-</div>
+Ouvert aux missions freelance via [mokai studio](https://mokaistudio.com/).  
+*Open to freelance work through [mokai studio](https://mokaistudio.com/).*
 
 ---
 
-## About me
-Hi, I’m Michaël.  
-I started by launching my first web project, then joined an intensive bootcamp before entering **Epitech** to deepen my skills.  
+### À propos · About
 
-Today, I mainly work with **React**, **Next.js** and **TypeScript**.  
-My priorities: writing clean, maintainable code, focusing on users, and communicating clearly within teams.  
+**FR** — Je construis des produits web et j’oriente mon parcours vers la data et l’IA. Après dix ans dans l’industrie (hospitalier, pharmaceutique), je suis en alternance en milieu industriel et en 1re année de MSc Intelligence Artificielle.
 
-👉 I’m looking for a **2.5-year apprenticeship starting in January 2026**, but I’m also open to freelance opportunities.
+Je mêle terrain, produit et code : architecture claire, interfaces soignées, livrables qui tiennent en production.
 
----
+**EN** — I build web products and I’m moving toward data and AI. After ten years in industry (healthcare, pharma), I’m on a work-study track in an industrial setting, in the first year of an MSc in Artificial Intelligence.
 
-## Tech stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,java,tailwind,nodejs,express,mysql,figma,notion,git,github" alt="Tech stack" />
-</p>
+I combine shop-floor context, product sense, and engineering: clear architecture, polished UI, production-ready delivery.
 
 ---
 
-## Featured projects
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Silhouet</h3>
-      <p>Project built with TypeScript and @imgly/background-removal to remove image backgrounds.</p>
-      <a href="https://github.com/michaelgirardet/silhouet">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Street Art Hunter</h3>
-      <p>Collaborative project about urban art, developed as a team with Next.js and TypeScript.</p>
-      <a href="https://github.com/WildCodeSchool-2024-09/js-lyon-2024-09-P3-Street-Art-Hunter">View project →</a>
-    </td>
-    <td width="50%">
-      <h3>My Portfolio</h3>
-      <p>My personal website showcasing my background, projects and skills.</p>
-      <a href="https://michaelgirardet.dev">View project →</a>
-    </td>
-  </tr>
-</table>
+### Stack
+
+`TypeScript` `Next.js` `Python` `scikit-learn` `PostgreSQL` `PostHog` `WordPress`  
+`Git` `Docker` `Figma`
+
+Web pour livrer. Python et la data pour mesurer, analyser, faire évoluer.
 
 ---
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelgirardet&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgirardet&layout=compact&theme=transparent" height="150" />
-</p>
+### En production · Shipped
+
+**[MonSavoirFaire](https://www.monsavoirfaire.fr/)** — plateforme qui relie artisans et entreprises (industrie & BTP).  
+J’y ai contribué ; le produit compte aujourd’hui **+1 500 utilisateurs actifs**.
+
+D’autres projets suivront ici. En attendant : [portfolio](https://www.michaelgirardet.dev/).
 
 ---
 
-## Contact
-- Portfolio: [michaelgirardet.dev](https://michaelgirardet.dev)  
+### On peut travailler ensemble · Let’s work
+
+Via **[mokai studio](https://mokaistudio.com/)** — sites et SaaS, perf, sécurité, analytics.
+
+- concevoir / développer un site ou un produit web  
+- optimiser (perf, SEO technique, Core Web Vitals)  
+- sécuriser et assainir une base existante  
+- analyser (tracking, PostHog, aide à la décision)
+
+**[michaelgirardet.dev](https://www.michaelgirardet.dev/)** · **[mokaistudio.com](https://mokaistudio.com/)** · [michael.girardet@epitech.eu](mailto:michael.girardet@epitech.eu)
+
+---
+
+### GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=transparent&hide_border=true)
