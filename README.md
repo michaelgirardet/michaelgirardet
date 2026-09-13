@@ -1,62 +1,30 @@
-# 👋 Hi, I'm Michael
+# Michael Girardet
 
-### Software Engineer · Web · Data · AI
+**Software Engineer · Web · Data · AI**
 
-**France 🇫🇷 · Lyon**
+France · Lyon
 
-I build web products that are designed to **ship, measure and evolve**.
+I build web products with a focus on clean engineering, useful interfaces and production-ready delivery.
 
-10 years of industrial experience.
-Production SaaS.
-Currently pursuing an **MSc in Artificial Intelligence**.
+10 years of experience in industry, experience shipping SaaS products, and currently pursuing an MSc in Artificial Intelligence.
 
-> **Web to build. Data to understand. AI to go further.**
+> **Build. Measure. Improve.**
 
 ---
 
-## 🚀 What I do
+## About
 
-I work at the intersection of **software engineering, product and data**.
+I build web products and I'm progressively moving toward data and AI.
 
-* 🧑‍💻 **Web development** — TypeScript, Next.js, modern frontend
-* 🐍 **Data & AI** — Python, scikit-learn, data analysis
-* 🗄️ **Backend & databases** — PostgreSQL, APIs, data modeling
-* 📊 **Analytics** — PostHog, product analytics, decision support
-* ⚡ **Performance** — Core Web Vitals, technical optimization
-* 🔐 **Security** — hardening, best practices, existing codebases
-* 🐳 **Dev & delivery** — Git, Docker, production environments
+Before software engineering, I spent ten years working in industrial environments, mainly in healthcare and pharmaceutical industries. That experience still shapes the way I approach software: understand the problem first, keep things pragmatic, and build solutions that work in the real world.
 
-I care about more than making things work:
+Today, I'm combining that background with software engineering and an MSc in Artificial Intelligence.
 
-**clear architecture · clean interfaces · measurable products · production-ready code**
+I enjoy working across the stack, from interfaces and architecture to data, analytics and performance.
 
 ---
 
-## 🏗️ Shipped
-
-### [MonSavoirFaire](https://www.monsavoirfaire.fr/)
-
-A platform connecting **artisans and companies** in the industrial and construction sectors.
-
-I contributed to the product and its development.
-
-**+1,500 active users**
-
----
-
-## 🧠 Currently learning
-
-I'm currently pursuing an **MSc in Artificial Intelligence**, with a focus on building stronger foundations in:
-
-`Machine Learning` `Python` `Data Science` `Statistics` `AI`
-
-The goal isn't to collect technologies.
-
-It's to understand **when they are useful — and how to turn them into products.**
-
----
-
-## 🛠️ Tech Stack
+## Stack
 
 **Languages**
 
@@ -74,36 +42,80 @@ It's to understand **when they are useful — and how to turn them into products
 
 `Git` `Docker` `Figma`
 
+My main focus is web development today, with a growing focus on data and AI.
+
 ---
 
-## 💼 Freelance
+## Shipped
 
-I'm open to selected freelance projects through **[mokai studio](https://mokaistudio.com/)**.
+### [MonSavoirFaire](https://www.monsavoirfaire.fr/)
+
+A platform connecting artisans and companies across the industrial and construction sectors.
+
+I contributed to the development of the product, which now has **1,500+ active users**.
+
+More projects will be documented here over time.
+
+For now, you can find more of my work on my [portfolio](https://www.michaelgirardet.dev/).
+
+---
+
+## What I care about
+
+Good software isn't just about writing code.
+
+I'm particularly interested in:
+
+* building products that solve real problems
+* simple and maintainable architecture
+* polished user interfaces
+* performance and Core Web Vitals
+* technical SEO
+* analytics and product measurement
+* security and codebase improvements
+* using data and AI where they actually provide value
+
+---
+
+## Freelance
+
+I'm open to selected freelance projects through [mokai studio](https://mokaistudio.com/).
 
 I can help with:
 
-* 🌐 building a website or SaaS from scratch
-* ⚡ improving performance and Core Web Vitals
-* 🔎 technical SEO
-* 🔐 securing and cleaning up an existing codebase
-* 📊 implementing analytics and product tracking
-* 🧠 exploring data-driven features and AI use cases
+**Web & SaaS**
+Designing and developing websites and web products.
 
-**Need someone who understands both the product and the technical side?**
+**Performance**
+Improving loading times, Core Web Vitals and overall frontend performance.
 
-→ **[mokai studio](https://mokaistudio.com/)**
+**SEO & Analytics**
+Technical SEO, tracking, PostHog and product analytics.
 
----
-
-## 🌐 Find me
-
-**Portfolio** → [michaelgirardet.dev](https://www.michaelgirardet.dev/)
-**Freelance** → [mokaistudio.com](https://mokaistudio.com/)
-**Email** → [michael.girardet@epitech.eu](mailto:michael.girardet@epitech.eu)
+**Existing products**
+Improving, securing or cleaning up an existing codebase.
 
 ---
 
-## 📊 GitHub
+## Currently
+
+Pursuing an **MSc in Artificial Intelligence** while working in an industrial environment.
+
+I'm currently deepening my knowledge in:
+
+`Machine Learning` `Data Science` `Statistics` `Python` `AI`
+
+The goal is simple: understand the technology well enough to build useful things with it.
+
+---
+
+## Links
+
+[Portfolio](https://www.michaelgirardet.dev/) · [mokai studio](https://mokaistudio.com/) · [Email](mailto:michael.girardet@epitech.eu)
+
+---
+
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
 
@@ -112,5 +124,5 @@ I can help with:
 ---
 
 <p align="center">
-  <i>Building things. Learning constantly. Shipping in production.</i>
+  <sub>Software Engineer · Web · Data · AI</sub>
 </p>
