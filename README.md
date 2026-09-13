@@ -1,57 +1,116 @@
+# 👋 Hi, I'm Michael
 
-Ingénieur logiciel basé en France.  
-10 ans d’industrie, du SaaS en production, un MSc IA en cours.  
-*Software engineer based in France. A decade in industry, shipped SaaS, currently pursuing an MSc in AI.*
+### Software Engineer · Web · Data · AI
 
-Ouvert aux missions freelance via [mokai studio](https://mokaistudio.com/).  
-*Open to freelance work through [mokai studio](https://mokaistudio.com/).*
+**France 🇫🇷 · Lyon**
 
----
+I build web products that are designed to **ship, measure and evolve**.
 
-### À propos · About
+10 years of industrial experience.
+Production SaaS.
+Currently pursuing an **MSc in Artificial Intelligence**.
 
-**FR** — Je construis des produits web et j’oriente mon parcours vers la data et l’IA. Après dix ans dans l’industrie (hospitalier, pharmaceutique), je suis en alternance en milieu industriel et en 1re année de MSc Intelligence Artificielle.
-
-Je mêle terrain, produit et code : architecture claire, interfaces soignées, livrables qui tiennent en production.
-
-**EN** — I build web products and I’m moving toward data and AI. After ten years in industry (healthcare, pharma), I’m on a work-study track in an industrial setting, in the first year of an MSc in Artificial Intelligence.
-
-I combine shop-floor context, product sense, and engineering: clear architecture, polished UI, production-ready delivery.
+> **Web to build. Data to understand. AI to go further.**
 
 ---
 
-### Stack
+## 🚀 What I do
 
-`TypeScript` `Next.js` `Python` `scikit-learn` `PostgreSQL` `PostHog` `WordPress`  
+I work at the intersection of **software engineering, product and data**.
+
+* 🧑‍💻 **Web development** — TypeScript, Next.js, modern frontend
+* 🐍 **Data & AI** — Python, scikit-learn, data analysis
+* 🗄️ **Backend & databases** — PostgreSQL, APIs, data modeling
+* 📊 **Analytics** — PostHog, product analytics, decision support
+* ⚡ **Performance** — Core Web Vitals, technical optimization
+* 🔐 **Security** — hardening, best practices, existing codebases
+* 🐳 **Dev & delivery** — Git, Docker, production environments
+
+I care about more than making things work:
+
+**clear architecture · clean interfaces · measurable products · production-ready code**
+
+---
+
+## 🏗️ Shipped
+
+### [MonSavoirFaire](https://www.monsavoirfaire.fr/)
+
+A platform connecting **artisans and companies** in the industrial and construction sectors.
+
+I contributed to the product and its development.
+
+**+1,500 active users**
+
+---
+
+## 🧠 Currently learning
+
+I'm currently pursuing an **MSc in Artificial Intelligence**, with a focus on building stronger foundations in:
+
+`Machine Learning` `Python` `Data Science` `Statistics` `AI`
+
+The goal isn't to collect technologies.
+
+It's to understand **when they are useful — and how to turn them into products.**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`TypeScript` `JavaScript` `Python` `SQL`
+
+**Web**
+
+`Next.js` `React` `WordPress`
+
+**Data & AI**
+
+`scikit-learn` `PostgreSQL` `PostHog`
+
+**Tools**
+
 `Git` `Docker` `Figma`
 
-Web pour livrer. Python et la data pour mesurer, analyser, faire évoluer.
+---
+
+## 💼 Freelance
+
+I'm open to selected freelance projects through **[mokai studio](https://mokaistudio.com/)**.
+
+I can help with:
+
+* 🌐 building a website or SaaS from scratch
+* ⚡ improving performance and Core Web Vitals
+* 🔎 technical SEO
+* 🔐 securing and cleaning up an existing codebase
+* 📊 implementing analytics and product tracking
+* 🧠 exploring data-driven features and AI use cases
+
+**Need someone who understands both the product and the technical side?**
+
+→ **[mokai studio](https://mokaistudio.com/)**
 
 ---
 
-### En production · Shipped
+## 🌐 Find me
 
-**[MonSavoirFaire](https://www.monsavoirfaire.fr/)** — plateforme qui relie artisans et entreprises (industrie & BTP).  
-J’y ai contribué ; le produit compte aujourd’hui **+1 500 utilisateurs actifs**.
-
-D’autres projets suivront ici. En attendant : [portfolio](https://www.michaelgirardet.dev/).
-
----
-
-### On peut travailler ensemble · Let’s work
-
-Via **[mokai studio](https://mokaistudio.com/)** — sites et SaaS, perf, sécurité, analytics.
-
-- concevoir / développer un site ou un produit web  
-- optimiser (perf, SEO technique, Core Web Vitals)  
-- sécuriser et assainir une base existante  
-- analyser (tracking, PostHog, aide à la décision)
-
-**[michaelgirardet.dev](https://www.michaelgirardet.dev/)** · **[mokaistudio.com](https://mokaistudio.com/)** · [michael.girardet@epitech.eu](mailto:michael.girardet@epitech.eu)
+**Portfolio** → [michaelgirardet.dev](https://www.michaelgirardet.dev/)
+**Freelance** → [mokaistudio.com](https://mokaistudio.com/)
+**Email** → [michael.girardet@epitech.eu](mailto:michael.girardet@epitech.eu)
 
 ---
 
-### GitHub
+## 📊 GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=transparent&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME\&layout=compact\&theme=transparent\&hide_border=true)
+
+---
+
+<p align="center">
+  <i>Building things. Learning constantly. Shipping in production.</i>
+</p>
