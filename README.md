@@ -117,9 +117,9 @@ The goal is simple: understand the technology well enough to build useful things
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelgirardet\&show_icons=true\&theme=transparent\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME\&layout=compact\&theme=transparent\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgirardet\&layout=compact\&theme=transparent\&hide_border=true)
 
 ---
 
